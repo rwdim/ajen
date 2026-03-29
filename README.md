@@ -4,15 +4,17 @@
 
 # Ajen
 
+> **This project has been archived and is no longer actively maintained.**
+> No new features, bug fixes, or pull requests will be accepted.
+
 **Ajna + Genesis**
 
 Describe a startup. Watch AI employees build it. Ship in minutes, not months.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Rust](https://img.shields.io/badge/Rust-1.85+-orange?logo=rust&logoColor=white)](https://www.rust-lang.org/)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+[![Archived](https://img.shields.io/badge/Status-Archived-red.svg)]()
 
-[Website](https://www.ajen.dev) · [Dashboard](https://www.ajen.dev) · [Contributing](CONTRIBUTING.md)
+[Website](https://www.ajen.dev) · [Dashboard](https://www.ajen.dev)
 
 </div>
 
@@ -241,35 +243,7 @@ ajen/
 
 ## Contributing
 
-Ajen is in active development and contributions are welcome — bug fixes, new employee manifests, feature ideas.
-
-1. Fork the repo
-2. Create your branch (`git checkout -b feat/my-feature`)
-3. Commit your changes
-4. Open a pull request
-
-See [open issues](https://github.com/ajenhq/ajen/issues) for things to work on.
-
----
-
-## Star History
-
-<a href="https://www.star-history.com/?repos=ajenhq%2Fajen&type=date&legend=top-left">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/image?repos=ajenhq/ajen&type=date&theme=dark&legend=top-left" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/image?repos=ajenhq/ajen&type=date&legend=top-left" />
-   <img alt="Star History Chart" src="https://api.star-history.com/image?repos=ajenhq/ajen&type=date&legend=top-left" />
- </picture>
-</a>
-
----
-
-## Security Notice
-
-Please do not report security vulnerabilities through [GitHub Issues](https://github.com/ajenhq/ajen/issues).
-
-If you discover a vulnerability, report it privately to **[security@ajen.dev](mailto:security@ajen.dev)**.  
-Our security team will review the report and respond as soon as possible.
+This project is archived and no longer accepting contributions.
 
 ---
 
@@ -282,7 +256,5 @@ MIT — see [LICENSE](LICENSE) for details.
 <div align="center">
 
 Built with Rust, caffeine, and a company of AI employees.
-
-**[Star this repo](https://github.com/ajenhq/ajen)** if you think AI should build companies, not just code.
 
 </div>
